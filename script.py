@@ -1,3 +1,6 @@
+# pip install opencv-python          
+# pip install opencv-contrib-python
+
 import cv2
 import sys
 from random import randint 
